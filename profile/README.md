@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+NileGo is a bicycle-sharing system based in Nile University of Nigeria.
+This is the codebase for our project.
 <!--
 
 **Here are some ideas to get you started:**
